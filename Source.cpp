@@ -15,6 +15,15 @@ float thuong(int a, int b){
 		return -1;
 	return a/b;
 }
+bool isSNT(int a){
+	if(a < 2)
+		return 2;
+	for(int i = 0; i <= sqrt(a); i++){
+		if(a%i == 0)
+			return false;
+	}
+	return true;
+}
 int main()
 {
 	int a = 10, b = 2;
