@@ -32,6 +32,7 @@ int main()
 	cout<<"Hieu ="<<hieu(a,b);
 	cout<<"Tich ="<<tich(a,b);
 	cout<<"Thuong ="<<thuong(a,b);
+	cout<<"nhanh 1";
 	system("pause");
 	return 0;
 }
