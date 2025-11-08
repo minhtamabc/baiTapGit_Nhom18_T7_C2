@@ -34,6 +34,7 @@ int main()
 	cout<<"Thuong ="<<thuong(a,b);
 	cout<<"nhanh 1";
 	cout<<"ket thuc nhanh 1";
+	cout<<"Nhanh 2";
 	system("pause");
 	return 0;
 }
