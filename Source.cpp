@@ -36,6 +36,8 @@ int main()
 	cout<<"ket thuc nhanh 1";
 	cout<<"Nhanh 2";
 	cout<<"ket thuc nhanh 2";
+	cout<<"test cherry-pick";
+	cout<<"test cherry-pick 2";
 	system("pause");
 	return 0;
 }
